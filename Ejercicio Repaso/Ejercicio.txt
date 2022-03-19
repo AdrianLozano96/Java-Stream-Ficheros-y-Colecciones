@@ -1,0 +1,9 @@
+1
+Lee un archivo csv (que el usuario pondrá) verificar que existe, si existe leerlo.
+Si lo lee dar a escoger si lo quiere guardar en otro csv, en un xml o en texto.
+
+2
+Con el ejercicio de arriba hacer filtros del csv y guardarlos en un archivo.
+
+3
+Hacer los ejercicios de arriba pero con más archivos y que la escritura y lectura se haga con hilos.
